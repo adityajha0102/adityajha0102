@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hey there, I'm Aditya Jha! 👋
 
-<!--
-**adityajha0102/adityajha0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learning, and Cloud Computing. Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📍 Based in Kolkata, West Bengal, India.
+- 🎓 B.Tech graduate in Information Technology with a focus on Data Science.
+- 💼 Currently working as an Engineer in Nagarro's AI Business Unit.
+- 💡 I love diving into complex data challenges and transforming them into actionable insights.
+
+
+## 🔬 What I'm Currently Working On
+
+
+- 📊 **Demand Forecasting**: Built a robust sales prediction model achieving an impressive MAE of 4.1 and an accuracy of 81.3%. Check it out [here](link-to-demand-forecasting-repo).
+- 🛣️ **Real-time Pothole Detection**: Developed a YOLOv8 model, achieving 89.8% precision and 79.8% recall, crucial for enhancing road safety. Explore it [here](link-to-pothole-detection-repo).
+
+
+## 🌱 What I'm Learning
+
+
+- 🚀 Always exploring advanced ML techniques, from deep learning architectures to reinforcement learning.
+- ☁️ Deepening my expertise in Google Cloud Platform (GCP), particularly BigQuery, Looker Studio, and Vertex AI.
+
+
+## 🚀 What's Next?
+
+
+- 🌐 I'm eager to dive deeper into NLP and explore applications in sentiment analysis and chatbots.
+- 🌍 Also, I'm looking to apply my skills to projects with a global impact.
+
+
+## 📫 Let's Connect!
+
+
+- 💬 Find me on [LinkedIn](https://www.linkedin.com/in/adityajha/).
+- 🌐 Explore more on my [Personal Website](https://www.adityajha.com).
+- 📧 You can also reach me via email at aditya.jha@email.com.
+
+
+Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about all things data! 🚀
