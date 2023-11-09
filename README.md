@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learnin
 ## 🔬 What I'm Currently Working On
 
 
-- 📊 **Demand Forecasting**: Built a robust sales prediction model achieving an impressive MAE of 4.1 and an accuracy of 81.3%. Check it out [here](link-to-demand-forecasting-repo).
-- 🛣️ **Real-time Pothole Detection**: Developed a YOLOv8 model, achieving 89.8% precision and 79.8% recall, crucial for enhancing road safety. Explore it [here](link-to-pothole-detection-repo).
+- 📊 **Demand Forecasting**: Built a robust sales prediction model achieving an impressive MAE of 4.1 and an accuracy of 81.3%.
+- 🛣️ **Real-time Pothole Detection**: Developed a YOLOv8 model, achieving 89.8% precision and 79.8% recall, crucial for enhancing road safety.
 
 
 ## 🌱 What I'm Learning
@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learnin
 ## 📫 Let's Connect!
 
 
-- 💬 Find me on [LinkedIn](https://www.linkedin.com/in/adityajha/).
-- 🌐 Explore more on my [Personal Website](https://www.adityajha.com).
-- 📧 You can also reach me via email at aditya.jha@email.com.
+- 💬 Find me on [LinkedIn](https://www.linkedin.com/in/aditya-jhaa/).
+- 📊 Find me on [Kaggle](https://www.kaggle.com/adityajha0102).
+- 📧 You can also reach me via email at adityajha0102@gmail.com.
 
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about all things data! 🚀
