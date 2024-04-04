@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learnin
 ## 🔬 What I'm Currently Working On
 
 
+- 🛍️ **ShopScore**: Built a predictive model and implemented mlops concepts using zenml on ecommerce data, achieving an outstanding F1 score of 92.43% and accuracy of 86.51%
 - 📊 **Demand Forecasting**: Built a robust sales prediction model achieving an impressive MAE of 4.1 and an accuracy of 81.3%.
 - 🛣️ **Real-time Pothole Detection**: Developed a YOLOv8 model, achieving 89.8% precision and 79.8% recall, crucial for enhancing road safety.
 
@@ -20,14 +21,14 @@ Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learnin
 ## 🌱 What I'm Learning
 
 
-- 🚀 Always exploring advanced ML techniques, from deep learning architectures to reinforcement learning.
+- 🚀 Always exploring advanced ML techniques, from deep learning architectures to GenAI concepts.
 - ☁️ Deepening my expertise in Google Cloud Platform (GCP), particularly BigQuery, Looker Studio, and Vertex AI.
 
 
 ## 🚀 What's Next?
 
 
-- 🌐 I'm eager to dive deeper into NLP and explore applications in sentiment analysis and chatbots.
+- 🌐 I'm eager to dive deeper towards MLOps and Generative Models.
 - 🌍 Also, I'm looking to apply my skills to projects with a global impact.
 
 
