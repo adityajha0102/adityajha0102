@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learnin
 ## 🔬 What I'm Currently Working On
 
 
-- 🔄 **MigrateMatic**: Automating database migration processes using Python-based LLM model commands for seamless data transitions.
+- 🎮 **PokeGen**: Showcasing GenAI capablities, a fun project for all Pokémon lovers to generate their own custom Pokémon cards and have battles between them.
 - 🛍️ **ShopScore**: Built a predictive model and implemented mlops concepts using zenml on ecommerce data, achieving an outstanding F1 score of 92.43% and accuracy of 86.51%.
 - 📊 **Demand Forecasting**: Built a robust sales prediction model achieving an impressive MAE of 4.1 and an accuracy of 81.3%.
 - 🛣️ **Real-time Pothole Detection**: Developed a YOLOv8 model, achieving 89.8% precision and 79.8% recall, crucial for enhancing road safety.
