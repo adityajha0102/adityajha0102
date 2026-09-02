@@ -1,44 +1,61 @@
-# Hey there, I'm Aditya Jha! 👋
+# Hey, I'm Aditya Jha 👋
 
+I'm a Data Scientist with 4+ years of experience building production-grade Machine Learning and Generative AI solutions.
 
-Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learning, and Cloud Computing. Here's a bit about me:
+I enjoy working at the intersection of **Machine Learning, Generative AI, LLM applications, retrieval, evaluation, and ML engineering** — taking ideas from experimentation to reliable, scalable solutions.
 
-
-- 📍 Based in Kolkata, West Bengal, India.
-- 🎓 B.Tech graduate in Information Technology with a focus on Data Science.
-- 💼 Currently working as an Engineer in Nagarro's AI Business Unit.
-- 💡 I love diving into complex data challenges and transforming them into actionable insights.
-
+💼 Currently working as a **Software Engineer – Data Scientist at Bold Technologies**, where I build and optimize LLM-powered solutions.
 
 ## 🔬 What I'm Currently Working On
 
+- 🤖 **LLM & GenAI Applications** — Building and optimizing LLM-powered solutions for real-world business use cases.
+- 🧠 **DSPy & MIPROv2** — Developing DSPy pipelines with MIPROv2 optimization for automated SEO content generation.
+- 🔎 **Hybrid Retrieval** — Building retrieval systems combining **BM25 and cosine similarity** for contextual internal linking.
+- 📊 **LLM Evaluation** — Working on prompt validation, model benchmarking, and end-to-end evaluation for LLM applications.
+- 🚀 **LLM Migration** — Contributing to the migration from the **GPT-4o family to the GPT-5.4 family** through internal evaluation and migration frameworks.
 
-- 🎮 **PokeGen**: Showcasing GenAI capablities, a fun project for all Pokémon lovers to generate their own custom Pokémon cards and have battles between them.
-- 🛍️ **ShopScore**: Built a predictive model and implemented mlops concepts using zenml on ecommerce data, achieving an outstanding F1 score of 92.43% and accuracy of 86.51%.
-- 📊 **Demand Forecasting**: Built a robust sales prediction model achieving an impressive MAE of 4.1 and an accuracy of 81.3%.
-- 🛣️ **Real-time Pothole Detection**: Developed a YOLOv8 model, achieving 89.8% precision and 79.8% recall, crucial for enhancing road safety.
+## 🛠️ Technologies & Tools
 
+**Languages:**  
+Python, SQL
 
-## 🌱 What I'm Learning
+**Machine Learning:**  
+TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Feature Engineering, Classification, Regression, Forecasting
 
+**Generative AI & NLP:**  
+LLMs, Generative AI, DSPy, MIPROv2, RAG, Retrieval Systems, Semantic Search, Prompt Engineering, LangChain, LangSmith, Transformers, BERT
 
-- 🚀 Always exploring advanced ML techniques, from deep learning architectures to GenAI concepts.
-- ☁️ Deepening my expertise in Google Cloud Platform (GCP), particularly BigQuery, Looker Studio, and Vertex AI.
+**Cloud & Data:**  
+Azure OpenAI, Azure Databricks, Azure Cognitive Services, Azure Functions, GCP, BigQuery
 
+**MLOps & Engineering:**  
+MLflow, ZenML, Docker, Kubernetes, FastAPI, Git, Jenkins, Azure DevOps, CI/CD
 
-## 🚀 What's Next?
+## 🚀 Personal Projects
 
+### 🛍️ ShopScore
 
-- 🌐 I'm eager to dive deeper towards MLOps and Generative Models.
-- 🌍 Also, I'm looking to apply my skills to projects with a global impact.
+A predictive e-commerce project exploring reproducible ML workflows and MLOps.
 
+- Built an end-to-end ML pipeline using **ZenML and MLflow**
+- Developed a Gradient Boosting classifier for customer satisfaction prediction
+- Achieved **92.43% F1 score** and **86.51% accuracy**
 
-## 📫 Let's Connect!
+## 📚 Areas I'm Interested In
 
+- Machine Learning
+- Generative AI
+- LLM Applications
+- RAG & Information Retrieval
+- LLM Evaluation
+- MLOps
+- Production ML Systems
 
-- 💬 Find me on [LinkedIn](https://www.linkedin.com/in/aditya-jhaa/).
-- 📊 Find me on [Kaggle](https://www.kaggle.com/adityajha0102).
-- 📧 You can also reach me via email at adityajha0102@gmail.com.
+## 📫 Let's Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-jhaa/)
+- 📊 [Kaggle](https://www.kaggle.com/adityajha0102)
+- 🌐 [Portfolio](https://adityajha0102.github.io/portfolio/)
+- 📧 adityajha0102@gmail.com
 
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about all things data! 🚀
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss Machine Learning, Generative AI, or LLM applications!
