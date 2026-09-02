@@ -16,19 +16,15 @@ I enjoy working at the intersection of **Machine Learning, Generative AI, LLM ap
 
 ## 🛠️ Technologies & Tools
 
-**Languages:**  
+- 📚 **Languages:**  
 Python, SQL
-
-**Machine Learning:**  
+- 🧠 **Machine Learning:**  
 TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Feature Engineering, Classification, Regression, Forecasting
-
-**Generative AI & NLP:**  
+- 🤖 **Generative AI & NLP:**  
 LLMs, Generative AI, DSPy, MIPROv2, RAG, Retrieval Systems, Semantic Search, Prompt Engineering, LangChain, LangSmith, Transformers, BERT
-
-**Cloud & Data:**  
+- ☁️ **Cloud & Data:**  
 Azure OpenAI, Azure Databricks, Azure Cognitive Services, Azure Functions, GCP, BigQuery
-
-**MLOps & Engineering:**  
+- ⚙️ **MLOps & Engineering:**  
 MLflow, ZenML, Docker, Kubernetes, FastAPI, Git, Jenkins, Azure DevOps, CI/CD
 
 ## 🚀 Personal Projects
